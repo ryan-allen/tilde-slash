@@ -1,0 +1,20 @@
+syntax on
+colorscheme slate 
+set ruler
+set number
+set gfn=Droid_Sans_Mono:h12
+set autoindent
+set ts=8
+set expandtab
+syntax on
+set ruler
+set number
+set autoindent
+set ts=2
+set expandtab
+set shiftwidth=2
+set go-=T" to 
+set guioptions-=L
+set guioptions-=r
+set lines=45
+set columns=195
