@@ -1,0 +1,1 @@
+open "http://www.google.com.au/search?q=$1"

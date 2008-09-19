@@ -1,0 +1,2 @@
+#!/usr/bin/env ruby
+puts (1..(ARGV[0] ? ARGV[0].to_i : 12)).collect { (('a'..'z').to_a + (0..9).to_a)[(rand * 36).floor] }.join
